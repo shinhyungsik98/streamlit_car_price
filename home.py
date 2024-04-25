@@ -7,3 +7,6 @@ def run_home () :
 
    
     st.image('./image/car.webp',use_column_width=True)
+
+
+    
