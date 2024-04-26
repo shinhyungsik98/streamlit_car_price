@@ -61,7 +61,7 @@ def run_ml():
         y_pred=format(y_pred,',')
         print(y_pred)
         #4. 문자열 조합하기
-        st.text(f'위의 데이터로 예측한 자동차 구매 가능 금액은 {y_pred} 달러 입니다.')
+        st.text(f'위의 데이터로 예측한 자동차 구매 가능 금액은 {y_pred} $ 입니다.')
 
 
 
