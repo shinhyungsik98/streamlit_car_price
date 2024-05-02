@@ -16,6 +16,7 @@ def main() :
         run_eda()
     elif choice == menu[2] :
         run_ml()
+    
 
 
 if __name__ == '__main__' :
